@@ -1,6 +1,6 @@
 # Algoritmos de Optimización
 
-Portafolio personal de la asignatura **Algoritmos de Optimización**. En este repositorio se recopilan los ejercicios, prácticas y el código desarrollado como respuesta a las actividades de clase.
+Portafolio personal de la asignatura **Algoritmos de Optimización**. En este repositorio se recopilan las actividades guiadas, proyectos (trabajos prácticos) y el código desarrollado como respuesta a las actividades de clase.
 
 ## Autor
 
@@ -20,10 +20,10 @@ Este repositorio funciona como un portafolio académico donde se irá subiendo, 
 
 ```
 Algoritmos-de-Optimizacion/
-├── ejercicios/      # Soluciones a los ejercicios de clase
-├── practicas/       # Prácticas y trabajos más completos
-├── notas/           # Apuntes y material de apoyo
-└── README.md        # Este archivo
+├── ACTIVIDADES GUIADAS/       # Soluciones a las actividades guiadas de clase
+├── PROYECTO (Trabajo Práctico)/ # Trabajos prácticos y proyectos
+├── notas/                     # Apuntes y material de apoyo
+└── README.md                  # Este archivo
 ```
 
 ## Tecnologías

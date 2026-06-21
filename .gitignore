@@ -1,0 +1,23 @@
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python virtualenvs, caches, and Jupyter Notebook checkpoint files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+
+# AI agent configurations and runtime data
+.gemini/
+.antigravity/
+.system_generated/
+task.md
+implementation_plan.md
+walkthrough.md
